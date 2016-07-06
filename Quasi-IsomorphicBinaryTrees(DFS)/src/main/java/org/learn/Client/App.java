@@ -1,6 +1,6 @@
 package org.learn.Client;
 
-import org.learn.PrepareTree.Node;
+import org.learn.Question.Node;
 import org.learn.Question.QuasiIsomorphicBinaryTree;
 
 public class App 

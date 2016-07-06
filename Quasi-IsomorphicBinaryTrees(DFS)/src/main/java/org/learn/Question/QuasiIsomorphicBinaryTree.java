@@ -1,8 +1,6 @@
 
 package org.learn.Question;
 
-import org.learn.PrepareTree.Node;
-
 public class QuasiIsomorphicBinaryTree {
 	public static boolean quasiIsomorphicBinaryTree(Node tree1, Node tree2) {
 		if(tree1 == null && tree2 == null) {
