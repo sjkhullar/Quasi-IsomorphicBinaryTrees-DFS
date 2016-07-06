@@ -42,9 +42,9 @@ public class App
 
 		boolean isSame = QuasiIsomorphicBinaryTree.quasiIsomorphicBinaryTree(tree1, tree2);
 		if(isSame) {
-			System.out.println("Trees are Quasi-Isomorphic");
+			System.out.println("Binary Trees are Quasi-Isomorphic");
 		} else {
-			System.out.println("Trees are not Quasi-Isomorphic");
+			System.out.println("Binary Trees are not Quasi-Isomorphic");
 		}
     }
 }
